@@ -11,8 +11,8 @@ body{
   font-family: sans-serif;
   font-size: 1em;
   text-align: left;
-  bgcolor="#FFFFCC" ;
-  text="#0099FF" ;
-  leftmargin="20px" ;
-  topmargin="20px ";
+  bgcolor=#FFFFCC;
+  text=#0099FF;
+  leftmargin=20px;
+  topmargin=20px;
 }
